@@ -1,0 +1,98 @@
+[
+	{
+		"id" : 1,
+		"artist" : "The Beatles",
+		"created_at" : "2022-04-15 21:25:23.900000",
+		"rating" : 10,
+		"title" : "Hey Jude",
+		"updated_at" : null
+	},
+	{
+		"id" : 2,
+		"artist" : "Looking Glass",
+		"created_at" : "2022-04-15 21:26:01.096000",
+		"rating" : 10,
+		"title" : "Brandy",
+		"updated_at" : null
+	},
+	{
+		"id" : 3,
+		"artist" : "The Get",
+		"created_at" : "2022-04-15 21:26:16.851000",
+		"rating" : 6,
+		"title" : "Hurry Up",
+		"updated_at" : null
+	},
+	{
+		"id" : 4,
+		"artist" : "IHopper",
+		"created_at" : "2022-04-15 21:26:39.298000",
+		"rating" : 2,
+		"title" : "Live a little",
+		"updated_at" : null
+	},
+	{
+		"id" : 5,
+		"artist" : "my pony",
+		"created_at" : "2022-04-15 21:26:59.432000",
+		"rating" : 7,
+		"title" : "Go for it",
+		"updated_at" : null
+	},
+	{
+		"id" : 6,
+		"artist" : "The Beatles",
+		"created_at" : "2022-04-15 21:27:23.359000",
+		"rating" : 10,
+		"title" : "Nowhere Man",
+		"updated_at" : null
+	},
+	{
+		"id" : 9,
+		"artist" : "Hometoo",
+		"created_at" : "2022-04-15 21:28:24.204000",
+		"rating" : 5,
+		"title" : "Let me Go",
+		"updated_at" : null
+	},
+	{
+		"id" : 10,
+		"artist" : "Another",
+		"created_at" : "2022-04-15 21:28:46.114000",
+		"rating" : 8,
+		"title" : "Just for",
+		"updated_at" : null
+	},
+	{
+		"id" : 14,
+		"artist" : "they are",
+		"created_at" : "2022-04-15 21:51:34.813000",
+		"rating" : 6,
+		"title" : "Better that me",
+		"updated_at" : null
+	},
+	{
+		"id" : 15,
+		"artist" : "the gift",
+		"created_at" : "2022-04-15 22:18:35.212000",
+		"rating" : 5,
+		"title" : "Hers and Mind",
+		"updated_at" : null
+	},
+	{
+		"id" : 16,
+		"artist" : "Tomorrow",
+		"created_at" : "2022-04-15 23:45:52.060000",
+		"rating" : 3,
+		"title" : "Try me",
+		"updated_at" : null
+	},
+	{
+		"id" : 17,
+		"artist" : "The Wombats",
+		"created_at" : "2022-04-15 23:48:28.599000",
+		"rating" : 8,
+		"title" : "Help ME",
+		"updated_at" : null
+	}
+]
